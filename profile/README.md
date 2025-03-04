@@ -3,6 +3,10 @@
 <p data-start="147" data-end="416">In today’s fast-paced digital world, businesses need a <strong data-start="202" data-end="228">reliable and efficient</strong> way to manage customer interactions. Whether it’s answering inquiries, resolving issues, or providing real-time assistance, the right customer service platform makes all the difference.</p>
 <p data-start="418" data-end="799">Introducing <strong data-start="430" data-end="446">EasyChatDesk</strong>—an all-in-one <strong data-start="461" data-end="490">customer service platform</strong> designed to streamline communication, automate support, and enhance customer satisfaction. With features like <strong data-start="601" data-end="668">live chat, AI chatbot, CRM ticketing, and multi-channel support</strong>, EasyChatDesk empowers businesses to provide top-tier customer service without the complexity of traditional helpdesk solutions.</p>
 
+<a href="https://EasyChatDesk.com">Check EasyChatDesk</a>
+
+<img src="https://github.com/customer-service-platforms/.github/blob/main/Screenshot%202025-03-04%20at%2009.30.26.png?raw=true" width="100%" />
+
 <h2 data-start="801" data-end="834"><strong data-start="804" data-end="832">Why Choose EasyChatDesk?</strong></h2>
 <p data-start="835" data-end="1102">Unlike other platforms that come with <strong data-start="873" data-end="898">steep learning curves</strong> and <strong data-start="903" data-end="931">expensive pricing models</strong>, <strong data-start="933" data-end="949">EasyChatDesk</strong> is built for businesses of all sizes. It offers an intuitive, easy-to-use interface packed with powerful features that simplify customer interactions.</p>
 
