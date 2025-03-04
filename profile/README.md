@@ -15,6 +15,9 @@
 <p data-start="1195" data-end="1450">Customers expect quick responses, and with <strong data-start="1238" data-end="1273">EasyChatDesk’s live chat widget</strong>, businesses can engage with visitors <strong data-start="1311" data-end="1327">in real time</strong>. Whether they have a question about a product or need assistance with an issue, your support team can respond instantly.</p>
 <p data-start="1452" data-end="1620">💡 <strong data-start="1455" data-end="1468">Benefits:</strong><br data-start="1468" data-end="1471" />✔️ Engage website visitors in real-time<br data-start="1510" data-end="1513" />✔️ Reduce response times and improve customer satisfaction<br data-start="1571" data-end="1574" />✔️ Customize chat widget to match your brand</p>
 
+
+<img src="https://github.com/customer-service-platforms/.github/blob/main/Screenshot%202025-03-04%20at%2009.33.49.png?raw=true" width="100%" />
+
 <h3 data-start="1622" data-end="1678">🤖 <strong data-start="1629" data-end="1676">AI Chatbot – Automate Responses &amp; Save Time</strong></h3>
 <p data-start="1679" data-end="1923">With <strong data-start="1684" data-end="1721">EasyChatDesk’s AI-powered chatbot</strong>, businesses can <strong data-start="1738" data-end="1767">automate repetitive tasks</strong> and <strong data-start="1772" data-end="1819">provide instant replies to common inquiries</strong>. The chatbot helps reduce the workload for support agents while ensuring customers get quick answers.</p>
 <p data-start="1925" data-end="2064">💡 <strong data-start="1928" data-end="1945">How It Helps:</strong><br data-start="1945" data-end="1948" />✔️ 24/7 automated support<br data-start="1973" data-end="1976" />✔️ Handles FAQs, order status, and more<br data-start="2015" data-end="2018" />✔️ Transfers complex queries to human agents</p>
